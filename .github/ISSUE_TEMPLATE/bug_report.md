@@ -4,6 +4,7 @@ about: Create a report to help us improve
 title: "[BUG]"
 labels: bug
 assignees: nishi-k-1
+type: Bug
 
 ---
 
